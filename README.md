@@ -1,7 +1,7 @@
 # Bulut_Sistemi
 
 <h3>Bulut Sisteminde Ağ Güvenliği Sağlama</h3>
-</h3>Ağ Güvenliği:</h3>Ağ sızması (network penetration), ve oturum kaçırma (session hijacking)
+<h4>Ağ Güvenliği:</h4>Ağ sızması (network penetration), ve oturum kaçırma (session hijacking)
 saldırıları yöntemi vardır.
 
 Sanal ağların kandırılması: VM’lerin güvenliği için her VM'yi özel fiziksel kanalları
