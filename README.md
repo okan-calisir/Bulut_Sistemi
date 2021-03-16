@@ -4,7 +4,7 @@
 <h4>Ağ Güvenliği:</h4>Ağ sızması (network penetration), ve oturum kaçırma (session hijacking)
 saldırıları yöntemi vardır.
 
-Sanal ağların kandırılması: VM’lerin güvenliği için her VM'yi özel fiziksel kanalları
+<h4>Sanal ağların kandırılması:</h4>VM’lerin güvenliği için her VM'yi özel fiziksel kanalları
 kullanarak ana bilgisayarına bağlamak maliyetli bir çözüm olduğundan dolayı çoğu
 hipervizör, VM'leri daha doğrudan ve verimli bir şekilde iletişim kurmak için bağlamak için
 sanal ağları kullanmaktadır [6]. Sisteme dahil olan kötücül bir VM, sanal ağı dinleyebilir hatta
