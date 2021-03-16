@@ -13,7 +13,7 @@ sanallaştırma platformu, sanal ağları yapılandırmak için köprülü ve y�
 artırmaktadır.
 <h2>Ağ sızması (Network Penetration)</h2>
 <h4>1. Kurum ve Kurum’a Ait İnternet Servisleri Hakkında Bilgi Toplama (Information
-Gathering):</h4> Genellikle internete açık sunucu ve servislerin tespiti için uygulanan bu adım
+Gathering)</h4>Genellikle internete açık sunucu ve servislerin tespiti için uygulanan bu adım
 yerel ağda da sunucu tespiti için uygulanabilir. Ek olarak bu adımda e-posta ve kullanıcı
 hesap adları çeşitli kaynaklardan toplanabilir.
 <h4>2. Sunucu ve Servis Tarama (Host and Service Scanning):</h4> Sistemlere temas edilen ilk
