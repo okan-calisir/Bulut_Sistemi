@@ -11,7 +11,7 @@ paketleri diğer VM’lere yönlendirerek ARP kandırma yapabilmektedir. Xen gib
 sanallaştırma platformu, sanal ağları yapılandırmak için köprülü ve yönlendirilmiş olmak
 üzere iki yöntem kullanmakta, fakat bu yöntemler de sanal ağın kandırılma olasılığını
 artırmaktadır.
-Ağ sızması (Network Penetration)
+<h2>Ağ sızması (Network Penetration)</h2>
 <h4>1. Kurum ve Kurum’a Ait İnternet Servisleri Hakkında Bilgi Toplama (Information
 Gathering):</h4> Genellikle internete açık sunucu ve servislerin tespiti için uygulanan bu adım
 yerel ağda da sunucu tespiti için uygulanabilir. Ek olarak bu adımda e-posta ve kullanıcı
