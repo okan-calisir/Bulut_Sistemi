@@ -23,11 +23,11 @@ ile tespit edilir.
 sağlanan bu bilgi diğer durumlarda yapılan taramalar sonucunda netleştirilmeye çalışılır.
 Ağ haritası saldırı senaryolarının geliştirilmesinde ve nerelere odaklanması gerektiği
 hakkında test ekibine yardımcı olabilir.
-<h4>4. İşletim Sistemi Tespiti (OS Fingerprinting): Farklı işletim sistemlerinin farklı servis
+<h4>4. İşletim Sistemi Tespiti (OS Fingerprinting):</h4> Farklı işletim sistemlerinin farklı servis
 türleri bulunduğundan işletimi sistemi tespiti önemli bir adımdır. Ancak pek çok durumda
 kolaylıkla gerçekleştirilebilir. Bu bilgi ayrıca açıklık tespiti aşamasında da yardımcı
 olabilmektedir.
-<h4>5. Ağ Servisleri ve Sistem Kullanıcı Tespiti (Service and User Enumeration):/h4> Bilinen
+<h4>5. Ağ Servisleri ve Sistem Kullanıcı Tespiti (Service and User Enumeration):</h4> Bilinen
 açıklıklar belirli servisler ve bu servislerin belirli versiyonları için geçerli olduğundan hedef
 sistemler üzerindeki servisler ve versiyonlarının tespiti gerekmektedir. Ayrıca pek çok
 sistem öntanımlı kullanıcılarla geldiğinden bu kullanıcı hesaplarının da tespit edilmesinde 
@@ -61,5 +61,6 @@ bunlardan en çok kullanılanı, MiTM yani Man in the Middle saldırılarıdır.
 saldırılarından tamamen korunmanız gerekmekte.
 Bu saldırılardan korunabileceğiniz güvenlik uygulamalarını kullanmanızı tavsiye
 ederim.
+  
 • Cookie bilginizi bulunduğunuz ağ üzerinden çaldırma ihtimaliniz çok yüksek.
 Savunmasızken halka açık ağlara katılmamaya özen gösterin.
